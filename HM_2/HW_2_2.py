@@ -44,7 +44,7 @@ elif not year % 4 and not year % 400:
 else:
     print('NO')
 
-
+# mod
 # option 4
 
 year = int(input('Вкажіть рік: '))
